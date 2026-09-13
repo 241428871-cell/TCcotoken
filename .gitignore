@@ -1,0 +1,9 @@
+# Keep local usage records and credentials out of source control.
+work/
+.env
+.env.*
+auth.json
+*.jsonl
+*.sqlite
+*.sqlite-*
+__pycache__/
