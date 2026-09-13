@@ -1,0 +1,4 @@
+interface:
+  display_name: "TCcotoken"
+  short_description: "对齐本机 token 与账号额度，估算跨设备使用比例并报告误差"
+  default_prompt: "使用 $tccotoken 测算本机与非本机的 Codex 额度比例，并说明时间范围、标定依据和不确定性。"
